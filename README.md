@@ -1,6 +1,6 @@
 # Todo-List-Web-development
 
-Certainly! Here's a concise description for your To-Do List web development project that you can use on GitHub:
+
 
 ---
 
